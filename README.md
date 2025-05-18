@@ -1,4 +1,5 @@
 **Mô tả**
+
 Hệ thống điểm danh bằng nhận diện khuôn mặt sử dụng deep learning và OpenCV. Hệ thống có thể:
 
 Nhận diện khuôn mặt từ camera
@@ -6,6 +7,7 @@ Nhận diện khuôn mặt từ camera
 Ghi lại thời gian vào/ra
 
 Xuất báo cáo điểm danh dưới dạng file Excel kèm hình ảnh
+
 
 **Yêu cầu hệ thống**
 Phần cứng
@@ -19,6 +21,7 @@ Phần mềm
 Python 3.7+
 
 Các thư viện cần thiết
+
 
 **Cài đặt thư viện**
 Cài đặt các thư viện cần thiết bằng pip:
@@ -36,6 +39,7 @@ Hoặc cài đặt tất cả bằng file requirements.txt:
 
 bash
 pip install -r requirements.txt
+
 **Cách chạy chương trình**
 Clone repository này
 
@@ -47,12 +51,14 @@ Chạy file main:
 
 bash
 python main.py
+
 **Giao diện chương trình**
 Chương trình có giao diện đơn giản với 2 nút chính:
 
 Điểm danh: Bắt đầu quá trình nhận diện khuôn mặt
 
 Thoát: Đóng chương trình
+
 
 **Đầu ra**
 Chương trình sẽ tạo file Excel trong thư mục được chỉ định với các thông tin:
@@ -66,6 +72,7 @@ Thời gian ra
 Trạng thái đủ tiết (Có/Không)
 
 Hình ảnh khuôn mặt
+
 
 **Lưu ý**
 Đảm bảo đường dẫn đến model (pp1.h5) là chính xác
