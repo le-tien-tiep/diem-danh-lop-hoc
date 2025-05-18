@@ -74,5 +74,5 @@ File Excel sẽ được lưu tự động khi đóng chương trình
 
 Hình ảnh tạm sẽ tự động xóa sau khi lưu vào file Excel
 
-📜 Giấy phép
+###Giấy phép
 Dự án này được phân phối theo giấy phép MIT. Xem file LICENSE để biết thêm chi tiết.
