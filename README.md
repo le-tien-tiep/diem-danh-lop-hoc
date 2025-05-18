@@ -27,18 +27,29 @@ Các thư viện cần thiết
 Cài đặt các thư viện cần thiết bằng pip:
 
 bash
+
 pip install opencv-python==4.5.5.64
+
 pip install numpy==1.21.6
+
 pip install pandas==1.3.5
+
 pip install tensorflow==2.8.0
+
 pip install keras==2.8.0
+
 pip install pillow==9.2.0
+
 pip install openpyxl==3.0.10
+
 pip install tk==0.1.0
+
 Hoặc cài đặt tất cả bằng file requirements.txt:
 
 bash
+
 pip install -r requirements.txt
+
 
 **Cách chạy chương trình:**
 Clone repository này
